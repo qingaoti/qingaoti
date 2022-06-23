@@ -1,8 +1,8 @@
-## Hi, I am hackycy! 👋
+## Hi, I am qingaoti! 👋
 
 ### Want to be a full stack developer
 
-- 📚  Learning  **Vue3.0** & **TypeScript** now.
+- 📚  Learning  **React** & **TypeScript** now.
 - 😄  Welcome to visit my **open source projects**.
 
 <div class="half">
