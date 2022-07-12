@@ -19,6 +19,4 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 ### 🤝🏻 &nbsp;Contact with Me
-<a href="mailto:qingaoti@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-qingaoti@qq.com-blue?style=flat-square&logo=gmail"></a>
-
-![image](https://raw.githubusercontent.com/qingaoti/qingaoti/main/image/daohang.png)
+<a href="mailto:qingaoti@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-qingaoti@qq.com-blue?style=flat-square&logo=gmail"></a
